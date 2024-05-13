@@ -27,7 +27,7 @@ module.exports = {
         type: Sequelize.BOOLEAN,
         defaultValue: false,
       },
-      creasted_at: {
+      created_at: {
         type: Sequelize.DATE,
         allowNull: false,
       },
